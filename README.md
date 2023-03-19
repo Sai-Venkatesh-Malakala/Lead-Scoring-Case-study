@@ -15,5 +15,5 @@ Making Predictions ->
 Model Evaluation ->
 ROC Curve ->
 Prediction on test set ->
-Precision- Recall ->
+Precision- Recall 
 
